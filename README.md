@@ -18,4 +18,5 @@ The dataset has information about the cars across various categories such as:
 14) Wheelbase
 15) Length
 
-We will start by ttreating the null values in our dataset
+We will start by treating the null values in our dataset
+then as per the problems we will solve out them by using appropriate functions or custom ones.
